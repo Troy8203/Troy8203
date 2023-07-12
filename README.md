@@ -47,7 +47,7 @@
   <img width="12" />
   <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" height="30" alt="bash logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img src="https://www.svgrepo.com/show/184138/linux.svg" height="30" alt="linux logo"  />
 </div>
 
 ###
