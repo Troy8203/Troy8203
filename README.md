@@ -31,7 +31,7 @@
 
 ### Contact
 
-![Static Badge](https://img.shields.io/badge/Roy_Ayala-126bc4?logo=linkedin)
-![Static Badge](https://img.shields.io/badge/%40DevTroy__lp-1D9BF0?logo=twitter&logoColor=white)
+[![Static Badge](https://img.shields.io/badge/Roy_Ayala-126bc4?logo=linkedin)](https://www.linkedin.com/in/roy-ayala-ruiz/)
+[![Static Badge](https://img.shields.io/badge/%40DevTroy__lp-1D9BF0?logo=twitter&logoColor=white)](https://twitter.com/DevTroy_lp/)
 ![Static Badge](https://img.shields.io/badge/troysg8203%40gmail.com-EA4335?logo=gmail&logoColor=white)
 
