@@ -1,1 +1,4 @@
-[![banner-image](/assets/img/banner.svg)](https://troy8203.github.io/Portfolio-blog/)
+<a href="https://jidef.com" target="_blank">
+  <img src="./banner.svg" alt="Banner">
+</a>
+<p align="center"></p>
